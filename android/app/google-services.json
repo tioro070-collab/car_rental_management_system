@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69605483669",
+    "project_id": "car-rental-management-sy-fd2fb",
+    "storage_bucket": "car-rental-management-sy-fd2fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69605483669:android:2922a5c1457dea272c279c",
+        "android_client_info": {
+          "package_name": "com.example.car_rental_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxa8gXkUlnuSaLFwasTzegDLqPNgbAjqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
